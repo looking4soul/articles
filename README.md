@@ -12,6 +12,14 @@
 
 [How to get a job as a blockchain developer](https://www.computerworlduk.com/careers/how-get-job-as-blockchain-developer-3640764/)
 
+[21 Companies Leveraging Blockchain for Identity Management and Authentication](https://gomedici.com/22-companies-leveraging-blockchain-for-identity-management-and-authentication/)
+
+[A gentle introduction to immutability of blockchains](https://www.linkedin.com/pulse/gentle-introduction-immutability-blockchains-antony-lewis/)
+
+[A Brief History of Blockchain](https://hbr.org/2017/02/a-brief-history-of-blockchain)
+
+[马化腾和张志东焦虑的问题，他们用区块链来解决](http://www.8btc.com/blockchain-can-solve-what-pony-worried)
+
 #### ICO
 
 [How does an ICO work](https://www.cryptocompare.com/coins/guides/how-does-an-ico-work/)
@@ -46,10 +54,52 @@
 
 [那个花10000枚比特币买披萨的哥们，后来怎么样了](http://baijiahao.baidu.com/s?id=1579984965729952557&wfr=spider&for=pc)
 
+[Pizza tx](https://blockchain.info/tx/a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d)
+
 ### 软件工程
 
 [What is Scrum?](http://www.scrumguides.org)
 
 [WHAT IS SCRUM?](https://www.scrum.org/resources/what-is-scrum)
+
+[structure101](http://structure101.com/)
+
+### 架构
+
+[阿里异地多活与同城双活的架构演进](http://www.sohu.com/a/158859741_444159)
+
+[摩拜国际化架构演进](http://www.infoq.com/cn/presentations/mobell-international-architecture-evolution?utm_source=infoq&utm_medium=videos_homepage&utm_campaign=videos_row2)
+
+[devops](https://en.wikipedia.org/wiki/DevOps)
+
+[摩拜 范同祥 - 摩拜国际化架构演进_部分1](https://doc.huodongjia.com/detail-6396.html)
+
+[摩拜 范同祥 - 摩拜国际化架构演进_部分2](https://doc.huodongjia.com/detail-6397.html)
+
+[阿里异地多活与同城双活的架构演进](http://www.sohu.com/a/158859741_444159)
+
+#### CDN
+
+[Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
+
+[阿里云cdn服务](https://www.aliyun.com/product/cdn?spm=5176.8142029.388261.303.68f86d3eyG3mmk)
+
+[1.1 CDN的基本概念和产生背景](http://book.51cto.com/art/201205/338755.htm)
+
+[1.2 CDN的基本工作过程](http://book.51cto.com/art/201205/338756.htm)
+
+[akamai](https://www.akamai.com/cn/zh/)
+
+[什么是CDN](https://help.aliyun.com/document_detail/27101.html?spm=a2c4g.11174283.2.5.3LsZza)
+
+## 经济
+
+[The Global Risks Report 2016](https://www.weforum.org/reports/the-global-risks-report-2016)
+
+## 人际关系
+
+[如何看人、识人？](https://www.zhihu.com/question/22506642)
+
+
 
 
